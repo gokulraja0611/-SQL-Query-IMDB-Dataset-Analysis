@@ -1,1 +1,1 @@
-# -SQL-Query-IMDB-Dataset-Analysis
+# SQL-Query-IMDB-Dataset-Analysis
